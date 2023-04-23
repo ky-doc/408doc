@@ -14,7 +14,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.png",
+  // logo: "/logo.png",
 
   // repo: "ky-doc/408doc",
 

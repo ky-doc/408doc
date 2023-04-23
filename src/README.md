@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 研小布
-heroImage: /logo.png
+# heroImage: /logo.png
 heroText: 研小布「考研资料站」
 tagline: 免费分享最新考研资料
 # actions:
