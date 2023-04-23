@@ -3,13 +3,13 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://ky-doc.github.io/mydoc/",
+  hostname: "https://ky-doc.github.io/408doc/",
 
   breadcrumb:false,
 
   author: {
     name: "研小布",
-    url: "https://ky-doc.github.io/mydoc/",
+    url: "https://ky-doc.github.io/408doc/",
   },
 
   iconAssets: "iconfont",
