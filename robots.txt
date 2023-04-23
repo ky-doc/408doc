@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ky-doc.github.io/mydoc/408doc/sitemap.xml
+Sitemap: https://ky-doc.github.io/408doc/408doc/sitemap.xml
