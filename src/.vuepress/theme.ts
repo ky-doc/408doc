@@ -4,7 +4,7 @@ import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://ky-doc.github.io/mydoc/",
-  
+
   breadcrumb:false,
 
   author: {
@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar: zhSidebar,
 
-  footer: "默认页脚",
+  footer: "微信公众号：研小布",
 
   displayFooter: true,
 

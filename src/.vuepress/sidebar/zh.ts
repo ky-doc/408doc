@@ -53,4 +53,39 @@ export const zhSidebar = sidebar({
     },
 
   ],
+
+  "/408comeon/": [
+    "/",
+    {
+      text: "408冲刺背诵手册",
+      icon: "note",
+      // prefix: "408notes/",
+      link: "/408comeon/",
+      children: "structure",
+    },
+
+  ],
+
+  "/ASM/": [
+    "/",
+    {
+      text: "汇编语言笔记",
+      icon: "note",
+      // prefix: "408notes/",
+      link: "/ASM/",
+      children: "structure",
+    },
+
+  ],
+  "/cnotes/": [
+    "/",
+    {
+      text: "C语言笔记",
+      icon: "note",
+      // prefix: "408notes/",
+      link: "/cnotes/",
+      children: "structure",
+    },
+
+  ],
 });
