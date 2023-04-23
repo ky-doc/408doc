@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ky-doc.github.io/mydoc/sitemap.xml
